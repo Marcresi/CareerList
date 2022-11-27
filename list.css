@@ -1,0 +1,83 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto';
+ }
+ 
+ a {
+    text-decoration: none;
+    color: black;
+ }
+ 
+ #mid-section {
+    padding: 2rem;
+    min-height: 100vh;
+    background-color: #075E54;
+ }
+ 
+ .result-heading {
+    padding-left: 40px;
+    padding-bottom: 20px;
+ }
+ 
+ .result-heading span {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 35px;
+    color: aliceblue;
+ 
+ }
+ 
+ .branding {
+    display: grid;
+    justify-content: center;
+ 
+ }
+ 
+ 
+ 
+ .navbar {
+    display: grid;
+    height: 35vh;
+    justify-content: center;
+    background-color: #25D366;
+ }
+ 
+ 
+ .logo {
+    width: 35vh;
+ 
+ }
+ 
+ 
+ .logo-title {
+    font-size: 2.8em;
+    font-family: 'Titillium Web', sans-serif;
+    color: black;
+    padding-left: 40px;
+    font-weight: bolder;
+    font-style: italic;
+ }
+ 
+ .listItems {
+    padding-left: 45px;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 17px;
+    color: white;
+ }
+ 
+ .nav-button {
+    width: 6.5em;
+    height: 2.5em;
+    font-weight: bolder;
+    font-size: 1em;
+    border: none;
+ }
+ 
+ .login {
+    background: none;
+ }
+ 
+ .sign {
+    background: black;
+    color: white;
+ }
